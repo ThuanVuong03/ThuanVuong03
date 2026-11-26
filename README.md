@@ -1,9 +1,9 @@
-<!-- Header Custom Banner (Được thiết kế từ ảnh gốc của bạn) -->
+<!-- Header Custom Banner -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/ThuanVuong03/ThuanVuong03/main/banner.png" width="100%" alt="Vuong Nghiep Thuan Banner" style="border-radius: 12px;" />
 </div>
 
-<!-- Typing Animation (Màu Blue & Sunset Orange từ ảnh gốc) -->
+<!-- Typing Animation -->
 <div align="center">
   <a href="https://github.com/ThuanVuong03">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FCA5A5&center=true&vCenter=true&width=720&lines=Turning+Marketing+Metrics+into+Operational+Precision;SQL+%E2%80%A2+Python+%E2%80%A2+n8n+Automation+%E2%80%A2+Power+BI;Data-Driven+Storytelling+%26+IBCS+Standards" alt="Typing SVG" />
@@ -12,32 +12,26 @@
 
 <br/>
 
-<!-- About Me Section -->
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td width="62%" valign="middle">
-      <h3>👋 About Me</h3>
-      <p>
-        A marketing professional transitioning into a <b>Data Analyst Operation</b> with a solid International Business background (GPA 3.26, Saigon University).
-      </p>
-      <p>
-        Fascinated by the practical power of data through hands-on campaign tracking and workflow automation, I specialize in bridging creative execution with quantitative insights to streamline operations and drive measurable growth.
-      </p>
-      <ul>
-        <li>🔭 <b>Current Focus:</b> Data Querying (SQL/Python), BI Dashboards & n8n Automation</li>
-        <li>🌏 <b>Languages:</b> Vietnamese (Native) • English (IELTS 7.5) • Chinese (HSK2)</li>
-        <li>📍 <b>Location:</b> Ho Chi Minh City, Vietnam</li>
-      </ul>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" alt="Data Analytics Illustration" style="border-radius: 12px;" />
-    </td>
-  </tr>
-</table>
+<!-- About Me Section (Full Width) -->
+<h3>👋 About Me</h3>
+
+<p>
+  A marketing professional transitioning into a <b>Data Analyst Operation</b> with a solid International Business background (GPA 3.26, Saigon University).
+</p>
+
+<p>
+  Fascinated by the practical power of data through hands-on campaign tracking and workflow automation, I specialize in bridging creative execution with quantitative insights to streamline operations and drive measurable growth.
+</p>
+
+<ul>
+  <li>🔭 <b>Current Focus:</b> Data Querying (SQL/Python), BI Dashboards &amp; n8n Automation</li>
+  <li>🌏 <b>Languages:</b> Vietnamese (Native) • English (IELTS 7.5) • Chinese (HSK2)</li>
+  <li>📍 <b>Location:</b> Ho Chi Minh City, Vietnam</li>
+</ul>
 
 <br/>
 
-<!-- Tech Stack Section (Palette: Navy, Dusk Pink, Sunset Orange) -->
+<!-- Tech Stack Section -->
 ### 🛠 Tech Stack & Core Competencies
 
 <div align="center">
@@ -85,7 +79,7 @@
 
 <br/>
 
-<!-- Contact Section (Màu Gradient theo Palette) -->
+<!-- Contact Section -->
 ### 📬 Connect & Contact
 
 <div align="center">
@@ -107,7 +101,7 @@
 
 <br/>
 
-<!-- Footer Wave (Dải màu Sunset To Dark) -->
+<!-- Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F43F5E,50:3B82F6,100:0F172A&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
