@@ -1,6 +1,6 @@
 <!-- Header Custom Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ThuanVuong03/ThuanVuong03/main/banner.png" width="100%" alt="Vuong Nghiep Thuan Banner" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/ThuanVuong03/ThuanVuong03/main/banner.png?v=2" width="100%" alt="Vuong Nghiep Thuan Banner" />
 </div>
 
 <!-- Typing Animation -->
